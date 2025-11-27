@@ -1,0 +1,11 @@
+
+# Core dependencies for Multi-Agent Service Matcher
+google-cloud-aiplatform>=1.38.0
+python-dotenv>=1.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Optional: Useful for development
+notebook>=7.0.0
