@@ -87,7 +87,8 @@ The notebook `multi-agent-service-matcher-formal.ipynb` contains the complete im
 
 ```python
 # Example usage
-from notebook_module import match_service
+from notebook_module
+import match_service
 
 response = match_service("my python code keeps crashing")
 print(response)
