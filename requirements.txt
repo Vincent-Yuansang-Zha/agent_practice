@@ -1,6 +1,7 @@
 
 # Core dependencies for Multi-Agent Service Matcher
 google-cloud-aiplatform>=1.38.0
+google-genai
 python-dotenv>=1.0.0
 
 # Jupyter notebook support

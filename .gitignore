@@ -84,3 +84,7 @@ dmypy.json
 *.tmp
 *.bak
 *.swp
+
+
+multi-agent-service-matcher.ipynb
+SETUP_GUIDE.md
